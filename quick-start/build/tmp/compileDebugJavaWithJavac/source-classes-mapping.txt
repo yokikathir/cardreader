@@ -1,0 +1,4 @@
+com/theartofdev/edmodo/cropper/quick/start/BuildConfig.java
+ com.theartofdev.edmodo.cropper.quick.start.BuildConfig
+com/theartofdev/edmodo/cropper/quick/start/MainActivity.java
+ com.theartofdev.edmodo.cropper.quick.start.MainActivity

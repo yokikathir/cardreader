@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Pro\\Live\\CardGrader-master\\quick-start\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Pro\\Live\\CardGrader-master\\quick-start\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Pro\\Live\\CardGrader-master\\quick-start\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Pro\\Live\\CardGrader-master\\quick-start\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Pro\\Live\\CardGrader-master\\quick-start\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_placeholder.png.flat",
+        "source": "E:\\Pro\\Live\\CardGrader-master\\quick-start\\src\\main\\res\\drawable-xhdpi\\placeholder.png"
+    }
+]

@@ -1,0 +1,4 @@
+#Sun Apr 04 09:29:42 IST 2021
+base.0=E\:\\Pro\\Live\\CardGrader-master\\sample\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

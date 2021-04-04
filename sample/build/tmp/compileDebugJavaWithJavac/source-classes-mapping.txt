@@ -1,0 +1,13 @@
+com/theartofdev/edmodo/cropper/sample/CropResultActivity.java
+ com.theartofdev.edmodo.cropper.sample.CropResultActivity
+com/example/croppersample/BuildConfig.java
+ com.example.croppersample.BuildConfig
+com/theartofdev/edmodo/cropper/sample/MainFragment.java
+ com.theartofdev.edmodo.cropper.sample.MainFragment
+ com.theartofdev.edmodo.cropper.sample.MainFragment$1
+com/theartofdev/edmodo/cropper/sample/MainActivity.java
+ com.theartofdev.edmodo.cropper.sample.MainActivity
+com/theartofdev/edmodo/cropper/sample/CropImageViewOptions.java
+ com.theartofdev.edmodo.cropper.sample.CropImageViewOptions
+com/theartofdev/edmodo/cropper/sample/CropDemoPreset.java
+ com.theartofdev.edmodo.cropper.sample.CropDemoPreset

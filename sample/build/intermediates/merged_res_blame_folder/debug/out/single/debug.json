@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "E:\\Pro\\Live\\CardGrader-master\\sample\\build\\intermediates\\res\\merged\\debug\\layout_activity_crop_result.xml.flat",
+        "source": "E:\\Pro\\Live\\CardGrader-master\\sample\\src\\main\\res\\layout\\activity_crop_result.xml"
+    },
+    {
+        "merged": "E:\\Pro\\Live\\CardGrader-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cat_small.jpg.flat",
+        "source": "E:\\Pro\\Live\\CardGrader-master\\sample\\src\\main\\res\\drawable-xhdpi\\cat_small.jpg"
+    },
+    {
+        "merged": "E:\\Pro\\Live\\CardGrader-master\\sample\\build\\intermediates\\res\\merged\\debug\\layout_fragment_main_customized.xml.flat",
+        "source": "E:\\Pro\\Live\\CardGrader-master\\sample\\src\\main\\res\\layout\\fragment_main_customized.xml"
+    },
+    {
+        "merged": "E:\\Pro\\Live\\CardGrader-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Pro\\Live\\CardGrader-master\\sample\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Pro\\Live\\CardGrader-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable_backdrop.xml.flat",
+        "source": "E:\\Pro\\Live\\CardGrader-master\\sample\\src\\main\\res\\drawable\\backdrop.xml"
+    },
+    {
+        "merged": "E:\\Pro\\Live\\CardGrader-master\\sample\\build\\intermediates\\res\\merged\\debug\\layout_fragment_main_rect.xml.flat",
+        "source": "E:\\Pro\\Live\\CardGrader-master\\sample\\src\\main\\res\\layout\\fragment_main_rect.xml"
+    },
+    {
+        "merged": "E:\\Pro\\Live\\CardGrader-master\\sample\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "E:\\Pro\\Live\\CardGrader-master\\sample\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\Pro\\Live\\CardGrader-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cat.jpg.flat",
+        "source": "E:\\Pro\\Live\\CardGrader-master\\sample\\src\\main\\res\\drawable-xhdpi\\cat.jpg"
+    },
+    {
+        "merged": "E:\\Pro\\Live\\CardGrader-master\\sample\\build\\intermediates\\res\\merged\\debug\\layout_fragment_main_oval.xml.flat",
+        "source": "E:\\Pro\\Live\\CardGrader-master\\sample\\src\\main\\res\\layout\\fragment_main_oval.xml"
+    },
+    {
+        "merged": "E:\\Pro\\Live\\CardGrader-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable_muted.xml.flat",
+        "source": "E:\\Pro\\Live\\CardGrader-master\\sample\\src\\main\\res\\drawable\\muted.xml"
+    },
+    {
+        "merged": "E:\\Pro\\Live\\CardGrader-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable_checkerboard.xml.flat",
+        "source": "E:\\Pro\\Live\\CardGrader-master\\sample\\src\\main\\res\\drawable\\checkerboard.xml"
+    },
+    {
+        "merged": "E:\\Pro\\Live\\CardGrader-master\\sample\\build\\intermediates\\res\\merged\\debug\\layout_fragment_main_scale_center.xml.flat",
+        "source": "E:\\Pro\\Live\\CardGrader-master\\sample\\src\\main\\res\\layout\\fragment_main_scale_center.xml"
+    },
+    {
+        "merged": "E:\\Pro\\Live\\CardGrader-master\\sample\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Pro\\Live\\CardGrader-master\\sample\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Pro\\Live\\CardGrader-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable_checktile.png.flat",
+        "source": "E:\\Pro\\Live\\CardGrader-master\\sample\\src\\main\\res\\drawable\\checktile.png"
+    },
+    {
+        "merged": "E:\\Pro\\Live\\CardGrader-master\\sample\\build\\intermediates\\res\\merged\\debug\\layout_fragment_main_min_max.xml.flat",
+        "source": "E:\\Pro\\Live\\CardGrader-master\\sample\\src\\main\\res\\layout\\fragment_main_min_max.xml"
+    }
+]

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Card Grader</string>
+    <string name="qr_code_open_flash_light">Open flash light</string>
+    <string name="qr_code_close_flash_light">Close Flash Light</string>
+    <string name="qr_code_auto_scan_notification">Position QR box</string>
+    <string name="qr_code_notification">Notification</string>
+    <string name="qr_code_camera_not_open">Could not open your camera</string>
+    <string name="qr_code_positive_button_know">OK</string>
+    <string name="qr_code_positive_button_confirm">Confirm</string>
+    <string name="qr_code_could_not_read_qr_code_from_picture">Could not read your image.Try another image~</string>
+    <string name="qr_code_could_not_read_qr_code_from_scanner">Sorry, could not open scan content</string>
+    <string name="qr_code_camera_not_found">Could not detect camera</string>
+    <string name="FAIL_SDCARD_WRITE">Can not write the file %s into sdcard. </string>
+    <string name="IO_ERROR">Unable to connect to the Server. Please check your network connectivity.</string>
+    <string name="FILE_NOT_EXIST">File %s not exist on the sdcard.</string>
+    <string name="FILE_RENAME_FAILED">Could not rename the temporary image file %s to original image file.</string>
+
+</resources>

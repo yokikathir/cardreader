@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/frame_surface_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/preview_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <com.example.helloworld.camerabar.SquareCameraPreview
+                android:id="@+id/camera_preview_surface"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center" />
+
+            <com.example.helloworld.camerabar.QrCodeFinderView
+                android:id="@+id/qr_code_view_finder"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerInParent="true"
+                />
+            <!---Customize your views and button-->
+            <TextView
+                android:id="@+id/res_border_size"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentBottom="true"
+                android:text=""
+                android:textColor="@color/black" />
+
+            <Button
+                android:id="@+id/make_photo_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="16dp"
+                android:layout_marginTop="16dp"
+                android:text="take_picture" />
+        </RelativeLayout>
+    </LinearLayout>
+</FrameLayout>
